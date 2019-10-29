@@ -48,3 +48,9 @@ Reboot the pi by typing reboot at the prompt The system will boot and open the A
 The demo user/password is user: pi password: pi
 You will see a File Explorer application and a Calculator application to try out.
 
+<img src="Images/Capture1.png">
+<br/>
+<img src="Images/Capture2.png">
+<br/>
+<img src="Images/Capture3.png">
+<br/>
