@@ -48,9 +48,9 @@ Reboot the pi by typing reboot at the prompt The system will boot and open the A
 The demo user/password is user: pi password: pi
 You will see a File Explorer application and a Calculator application to try out.
 
-<img src="Images/Capture1.png">
+<img src="https://github.com/mscott161/Athena/blob/master/Images/Capture1.PNG?raw=true">
 <br/>
-<img src="Images/Capture2.png">
+<img src="https://github.com/mscott161/Athena/blob/master/Images/Capture2.PNG?raw=true">
 <br/>
-<img src="Images/Capture3.png">
+<img src="https://github.com/mscott161/Athena/blob/master/Images/Capture3.PNG?raw=true">
 <br/>
